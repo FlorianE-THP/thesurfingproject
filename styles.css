@@ -1,0 +1,45 @@
+.jumbotron {
+  background-image: url(images/surfhero2.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.btn {
+  font-size: 14px;
+}
+
+#h1cards {
+  text-align: center;
+}
+
+.card {
+  border: none;
+  font-size: 14px;
+}
+
+.card-deck {
+  text-align: center;
+  margin-left: 30px;
+  margin-right: 30px;
+}
+
+#img-size {
+  width: 100% !important;
+  height: 100px !important;
+  object-fit: contain;
+}
+
+#img-testi {
+  width: 100% !important;
+  height: 400px !important;
+  object-fit: contain;
+}
+
+.card-header {
+  background-color: #c9e4e7;
+}
+
+hr {
+  width: 5%;
+  border: 1px solid #052;
+}
