@@ -2,6 +2,10 @@
   background-image: url(images/surfhero2.jpg);
   background-size: cover;
   background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 400px;
 }
 
 .btn {
@@ -23,6 +27,11 @@
   text-align: center;
   margin-left: 30px;
   margin-right: 30px;
+}
+
+.card-header {
+  display: inline-flex;
+  justify-content: center;
 }
 
 #img-size {
